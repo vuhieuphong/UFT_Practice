@@ -1,0 +1,5 @@
+function notepad1()
+
+	msgbox"This is function in notepad"
+
+End Function
